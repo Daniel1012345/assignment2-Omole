@@ -6,7 +6,7 @@
 
 ***
 
-### Section with an ordered list
+### Section with an lists
 
 Manchester united
 
