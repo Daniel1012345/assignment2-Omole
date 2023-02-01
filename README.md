@@ -14,4 +14,7 @@ Manchester united
 2. Daniel Omole
 3. Paul Pogba
 
+* Chelsea
+* Manchester City
+* Arsenal
 
