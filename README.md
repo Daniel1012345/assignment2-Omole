@@ -41,3 +41,21 @@ This is table of countries that I would recommend someone visit
 
 > A synonym is a word you use when you cant spell the one - *Baltasar Gracian*
 
+***
+
+### Code fencing section
+
+> How i make a column scollable then expands following that tallest column of the same row 
+
+[Link to question](https://stackoverflow.com/questions/75318760/how-to-make-a-column-scrollable-then-expands-following-the-tallest-column-of-the)
+
+```
+{
+    function startsWith($string, $startString) { 
+        $len = strlen($startString); 
+        return (substr($string, 0, $len) === $startString); 
+    } 
+}
+```
+
+[Link to code](https://css-tricks.com/snippets/php/test-if-string-starts-with-certain-characters-in-php/)
