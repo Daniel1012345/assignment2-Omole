@@ -33,3 +33,11 @@ This is table of countries that I would recommend someone visit
 | Ghana | It is a country filled with excitement and food | 4 |
 | London | It is a lovely english country | 7 |
 
+***
+
+### Pithy Quotes section
+
+> The road to hell is paved with adverbs - *Stephen King*
+
+> A synonym is a word you use when you cant spell the one - *Baltasar Gracian*
+
