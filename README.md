@@ -45,7 +45,7 @@ This is table of countries that I would recommend someone visit
 
 ### Code fencing section
 
-> How i make a column scollable then expands following that tallest column of the same row 
+> How do i make a column scollable then expands following that tallest column of the same row?
 
 [Link to question](https://stackoverflow.com/questions/75318760/how-to-make-a-column-scrollable-then-expands-following-the-tallest-column-of-the)
 
